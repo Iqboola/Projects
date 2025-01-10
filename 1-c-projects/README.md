@@ -1,9 +1,6 @@
 # C Projects
 Welcome to my C Projects repository!
 
-## Table of Contents
-1. [Projects](#projects)
-
 ## Projects
 
 ### Project 1: Register
