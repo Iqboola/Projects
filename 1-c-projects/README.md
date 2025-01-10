@@ -1,5 +1,5 @@
 # C Projects
-Welcome to my C Projects repository!
+Welcome to my C Projects directory!
 
 ## Projects
 
